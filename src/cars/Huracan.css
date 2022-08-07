@@ -1,0 +1,27 @@
+video {
+  width: 100%;
+}
+.huracan > img {
+  width: 100%;
+}
+
+.huracan h1 {
+  text-align: center;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.huracan__des {
+  font-family: Roboto, Helvetica Neue, Arial;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+  width: 67%;
+  margin: 0 auto;
+}
+
+.huracan__inner {
+  width: 40%;
+}
